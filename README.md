@@ -10,3 +10,6 @@
    
    ![Stock_data_2017](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2017_stock_data.PNG).
    ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2018_stock_data.PNG).
+
+  ### Execution Times
+   * The execution time for the refactored code was much faster than the original code presented. The nested for loop seems to 
