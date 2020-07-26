@@ -6,4 +6,4 @@
 
 ## Results
   ### Stocks
-    * Stocks had a way better performance in 2017 than it did in 2018. 
+   * Stocks had a way better performance in 2017 than it did in 2018. 
