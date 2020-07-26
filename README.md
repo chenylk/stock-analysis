@@ -12,7 +12,7 @@
    ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2018_stock_data.PNG)
 
   ### Execution Times
-   * The execution time for the refactored code was much faster than the original code presented. The nested for loop slowed down the code exponentially. 
+   * The execution time for the refactored code was much faster than the original code presented. The nested for loop slowed down the code exponentially. Refactoring the code will be better suited in the long run because it will handle larger data sets better and faster. 
    
    #### Unrefactored code times 2017,2018 
    ![Time_original_2017](https://github.com/chenylk/stock-analysis/blob/master/original%20code%20times/Allstocksanalysis_2017.PNG)
