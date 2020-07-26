@@ -6,4 +6,6 @@
 
 ## Results
   ### Stocks
-   * Stocks had a way better performance in 2017 than it did in 2018. 
+   * Stocks had a way better performance in 2017 than it did in 2018. The two stocks that had a positive percentage growth in both 2017 and 2018 were RUN and ENPH.
+   ![Stock_data_2017](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2017_stock_data.PNG).
+   ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2018_stock_data.PNG).
