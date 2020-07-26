@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ## Overview
-* In this project, I analyzed the script speed for a VBA code by refactoring an earlier solution. This code is being used to help determine the best performing stocks over the last couple of years. 
+* In this project, I analyzed the script speed for a VBA code by refactoring an earlier solution. This code is being used to help determine the best performing stocks, from a list of 12, over the last couple of years. 
 
 
 ## Results
@@ -21,3 +21,6 @@
    ![Stock_data_2017](https://github.com/chenylk/stock-analysis/blob/master/resources/VBA_Challenge_2017.png.PNG).
    ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/resources/VBA_Challenge_2018.png.PNG)
    
+   
+## Summary
+ * The advantages of refactoring code are that the code will be more concise and more readable for others. The overall code block will look nicer and others will be able to better understand why you did what you did. A disadvantage of refactoring code is the time it takes to clean the code up. It is very time consuming and a lot of times you will run into errors that you may not know how to fix.  
