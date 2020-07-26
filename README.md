@@ -12,4 +12,12 @@
    ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/stock%20data/2018_stock_data.PNG).
 
   ### Execution Times
-   * The execution time for the refactored code was much faster than the original code presented. The nested for loop seems to 
+   * The execution time for the refactored code was much faster than the original code presented. The nested for loop slowed down the code exponentially. 
+   
+   #### Unrefactored code times 2017,2018 
+   ![Stock_data_2017](https://github.com/chenylk/stock-analysis/blob/master/original%20code%20times/Allstocksanalysis_2017.PNG).
+   ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/original%20code%20times/Allstocksanalysis_2018.PNG)
+   #### Refactored code times 2017, 2018
+   ![Stock_data_2017](https://github.com/chenylk/stock-analysis/blob/master/resources/VBA_Challenge_2017.png.PNG).
+   ![Stock_data_2018](https://github.com/chenylk/stock-analysis/blob/master/resources/VBA_Challenge_2018.png.PNG)
+   
